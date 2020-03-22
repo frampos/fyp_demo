@@ -1,2 +1,2 @@
 # fyp_demo
-T-shirt detection demo fro my final year project.
+T-shirt detection demo for my final year project.
