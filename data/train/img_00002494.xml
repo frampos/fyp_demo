@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chosen images</folder>
+	<filename>img_00002494.jpg</filename>
+	<path>S:\DOWNLOADS\chosen images\img_00002494.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>354</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>333</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>
